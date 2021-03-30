@@ -1,0 +1,34 @@
+name: scientific_computing_project
+
+channels:
+  - defaults
+  - conda-forge
+  - opensourceeconomics
+
+dependencies:
+  - ipykernel=5.1.3
+  - jupyterlab=1.1.4
+  - pandas
+  - numpy
+  - pip=19.2.3
+  - python=3.8
+  - pip
+  - python-graphviz=0.8
+  - nb_conda_kernels=2.2.2
+  - scipy
+  - statsmodels
+  - seaborn
+
+  - pip:
+    - click==7.0
+    - pre-commit
+    - matplotlib==3.1.3
+    - nbsphinx==0.4.2
+    - pytest==5.2.0
+    - pytest-cov==2.7.1
+    - pytest-pythonpath==0.7.3
+    - black
+    - autopep8
+    - Py-BOBYQA
+    - DFO-LS
+    - git+https://github.com/OpenSourceEconomics/estimagic.git@new_tests_optimization
