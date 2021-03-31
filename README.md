@@ -6,5 +6,5 @@
       width="109" height="20">
 </a>
 
-This repository, together with the corresponding pull request opened in estimagic, forms my project submission.
+This repository, together with the corresponding [pull request](https://github.com/OpenSourceEconomics/estimagic/pull/198) opened in estimagic, forms my project submission.
 A detailed description can be found in [this notebook](https://github.com/mchandra12/scientific_computing_project/blob/main/project_overview.ipynb).
